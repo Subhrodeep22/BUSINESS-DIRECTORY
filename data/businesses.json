@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "TechGadgets Pro",
+    "description": "Leading provider of cutting-edge electronic devices and gadgets for consumers and businesses.",
+    "email": "contact@techgadgetspro.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Tech Street, Silicon Valley, CA 94000",
+    "category": "product",
+    "createdAt": "2024-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "CleanCorp Services",
+    "description": "Professional cleaning services for offices, homes, and commercial spaces. Available 24/7.",
+    "email": "info@cleancorp.com",
+    "phone": "+1 (555) 987-6543",
+    "address": "456 Service Ave, Downtown, NY 10001",
+    "category": "service",
+    "createdAt": "2024-01-20T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Organic Foods Market",
+    "description": "Fresh organic produce, dairy, and specialty food items sourced from local farms.",
+    "email": "hello@organicfoodsmarket.com",
+    "phone": "+1 (555) 456-7890",
+    "address": "789 Green Way, Farmville, OR 97000",
+    "category": "product",
+    "createdAt": "2024-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Creative Design Studio",
+    "description": "Professional graphic design and branding services for businesses of all sizes.",
+    "email": "hello@creativedesign.com",
+    "phone": "+1 (555) 321-9876",
+    "address": "321 Art Street, Creative City, NY 10002",
+    "category": "service",
+    "createdAt": "2024-02-05T00:00:00.000Z"
+  }
+]
