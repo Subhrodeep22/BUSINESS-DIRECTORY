@@ -38,5 +38,15 @@
     "address": "321 Art Street, Creative City, NY 10002",
     "category": "service",
     "createdAt": "2024-02-05T00:00:00.000Z"
+  },
+  {
+    "id": "175327725246247supexn3",
+    "name": "LinksUs",
+    "description": "Linksussss",
+    "email": "linksustech@gmail.com",
+    "phone": "+919883141541",
+    "address": "Silver Apartment, Raja Ram Mohan Roy Road By Lane, Behind E.V. pally P.O., Hakimara",
+    "category": "product",
+    "createdAt": "2025-07-23T13:27:32.462Z"
   }
 ]
